@@ -1,0 +1,32 @@
+Section 1 : Sensibilisation générale
+Bases du développement Web :
+
+Qu’est-ce que le développement Web et pourquoi est-il essentiel dans le contexte d’Internet ?
+le developpement web est un outil qui permet de traduire et écrire en langage de programmation notre site web que nous souhaitons créer.
+Il est essentiel dans le contexte internet car il permet d'aller plus vite, avoir des satisfactions vue que nous sommes dans une ère ou le digital prend beaucoup de place et d'importance.
+
+
+Avez-vous entendu parler du HTML ? Si oui, que signifie HTML et quel est son objectif principal dans le développement Web ?
+Oui j'ai entendu parler du HTML.
+Le HTML signifie HyperText Markup Language et son objectif principal est de créer des pages web ouvrable a partir d'un lien
+
+Section 2 : Familiarité avec CSS
+Connaissez-vous CSS ? Si oui, expliquez brièvement à quoi sert CSS dans le développement Web.
+Le CSS est un outil qui permet a l'utilisateur d'embellir sa page web, rendre sa page web plus jolie, rendre la page web agréable à regarder.
+
+Section 3 : JavaScript et son importance
+Avez-vous entendu parler de JavaScript ? Si oui, qu’est-ce que JavaScript et pourquoi est-il crucial pour créer des sites Web interactifs ?
+JavaScript est un langage de programmation utilisé dans les pages web interactives et très importante dans pour des applications web.
+Il est crucial car il permet de créer du contenu mis à jour de façon dynamique, de contrôler le contenu multimédia, d'animer des images, et tout ce que l'on peut penser.
+
+Section 4 : Introduction à React et Node.js
+Connaissez-vous React et Node.js ? Si oui, fournissez une brève description de ce pour quoi React et Node.js sont couramment utilisés dans le développement Web.
+React est une bibliothèque JavaScript utilisée pour construire des composants d'interface utilisateur.
+Node est un environnement d'exécution open-source, multi-plateforme, qui permet aux développeurs de créer toutes sortes d'applications et d'outils côté serveur en js.
+
+Section 5 : Question bonus
+Etant dans l'optique déjà d'être un pur developpeur, apprendre le developpement web va me permettre de me familiariser avec les outils de la programmation des sites web et des applications web.
+HTML, CSS, JavaScript, React et Node.js vont me permettre de travailler de façon autonome sur plusieurs projets, être indépendant, concevoir moi même des applications web sans avoir besoin d'être suivi tout ça en étant un developpeur FULLSTACK
+
+
+ 
